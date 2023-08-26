@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	//fatimaimran22
 	int N,i;
 	cout<<"Enter the number:  ";
 	cin>> N;
