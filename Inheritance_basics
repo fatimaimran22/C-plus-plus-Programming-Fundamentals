@@ -150,7 +150,7 @@ class ShiftSupervisor :public Employee
 
 int main()
 {
-	cout << "DSA LAB 1\nFatima Imran\n22L-6946\nTask 2" << endl;
+	cout << "fatimaimran22_GitHUb" << endl;
 
 	ProductionWorker pw("Abdul Wahab", 3020966621, "8,8,2003", 2, 100000);
 	ShiftSupervisor ss("Fatima Imran", 3204841551, "22,10,2004", 10000, 1000);
