@@ -26,8 +26,8 @@ The ShiftSupervisor class should have a member variable that holds the annual sa
 double) and a member variable that holds the annual production bonus (a double) that a shift
 supervisor has earned. Write a parameterized constructor and the appropriate getter and
 setter functions for the class. Demonstrate the class by writing a program that uses a
-ShiftSupervisor object.
-*/
+ShiftSupervisor object.*/
+
 
 //CODE
 #include<iostream>
