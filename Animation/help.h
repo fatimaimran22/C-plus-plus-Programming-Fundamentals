@@ -1,4 +1,4 @@
-//if u change the header file with the different name, change it in the source file too
+//if u save the header file with the different name, change it in the source file too
 
 #include <windows.h>
 
